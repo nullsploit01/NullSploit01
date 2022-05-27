@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NullSploit01
 - 👀 I’m interested in Web Development and Information Security
-- 🌱 I’m currently learning Flutter
 
 <!---
 NullSploit01/NullSploit01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
