@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NullSploit01
-- 👀 I’m interested in Web Development and Information Security
+- Hi, I’m @NullSploit01
+- I am a Software Engineer, And an infosec enthisuast.
 
 <!---
 NullSploit01/NullSploit01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
